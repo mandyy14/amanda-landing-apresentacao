@@ -214,7 +214,9 @@
 
         form.reset();
         form.classList.remove("was-validated");
-        showToast("Mensagem enviada! (demo salva no navegador)");
+        showToast(
+          "Mensagem enviada! (demo salva no navegador - verifique o inbox)",
+        );
       } catch (err) {
         console.error(err);
         showToast("Falha ao enviar. Tente novamente.", true);
