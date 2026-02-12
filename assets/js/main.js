@@ -143,7 +143,6 @@
     const inboxList = $("#inboxList");
     const inboxEmpty = $("#inboxEmpty");
     const clearInboxBtn = $("#clearInbox");
-    const exportInboxBtn = $("#exportInbox");
 
     function setLoading(isLoading) {
       if (!submitBtn) return;
