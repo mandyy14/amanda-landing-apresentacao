@@ -19,6 +19,9 @@ Landing page de apresentação com Bootstrap, foco em responsividade, UX e um fo
 
 **Com Node (npx):**
 
+**\*Ou
+VS Code (Live Server / Go Live)**
+
 ```bash
 npx serve
 ```
